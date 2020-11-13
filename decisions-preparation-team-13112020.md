@@ -58,12 +58,12 @@ Document that describes the target binding based on the role that is fulfilled?
 ### 1. What is needed to create a setup or subsribe to a API? What is an acceptable MVP for the pilot? We have to prove it is easy to setup!
 
 ### 2. Is OSR sufficient to be the "central phonebook" for the ecosystem? Or do we need something more?
-Related Issue[OSR}{https://github.com/stichtingsem/pilot-phase/issues/11)
+Related Issue[OSR](https://github.com/stichtingsem/pilot-phase/issues/11)
 
 Luke: although I think this would require a quite significant addition to the functionality of OSR as its main components (mandates and endpoints) currently only exist within the context of a specific school. But that's a discussion / research probably best held within the context
 
 ## SIS API
-Related Issue[SIS](https://github.com/stichtingsem/pilot-phase/issues/4)
+Related Issue: [SIS](https://github.com/stichtingsem/pilot-phase/issues/4)
 
 ### 1. Who to exchange personal data?
 
@@ -107,23 +107,23 @@ Related Issue: [Stream codes]{https://github.com/stichtingsem/pilot-phase/issues
 Blocking?
 
 ## Remaining Work - Non Blocking
-***[Progress & Results Service](https://github.com/stichtingsem/pilot-phase/issues/14)
+[Progress & Results Service](https://github.com/stichtingsem/pilot-phase/issues/14)
 
 Proposal: Design during development
 
-***[Non Happy Flows/Test SCenarios]](https://github.com/stichtingsem/pilot-phase/issues/9)
+[Non Happy Flows/Test SCenarios]](https://github.com/stichtingsem/pilot-phase/issues/9)
 
 Proposal: Determine during pilot
 
-***[Attributes Policy/Data Covenant](https://github.com/stichtingsem/pilot-phase/issues/10)
+[Attributes Policy/Data Covenant](https://github.com/stichtingsem/pilot-phase/issues/10)
 
 Proposal: Check later
 
-***[OSR](https://github.com/stichtingsem/pilot-phase/issues/11)
+[OSR](https://github.com/stichtingsem/pilot-phase/issues/11)
 
 Prposal: Continue research for roll-out
 
-***[RIO](https://github.com/stichtingsem/pilot-phase/issues/12)
+[RIO](https://github.com/stichtingsem/pilot-phase/issues/12)
 
 
 
