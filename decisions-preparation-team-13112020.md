@@ -115,7 +115,7 @@ Blocking?
 
 Proposal: Design during development
 
-[Non Happy Flows/Test SCenarios]](https://github.com/stichtingsem/pilot-phase/issues/9)
+[Non Happy Flows/Test SCenarios](https://github.com/stichtingsem/pilot-phase/issues/9)
 
 Proposal: Determine during pilot
 
