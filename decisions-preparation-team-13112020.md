@@ -1,5 +1,9 @@
 # Decisions Preparation Team 13-11-2020
 
+## Purpose meeting:
+- Remove issues so we can start developing API's 
+- If necessary determine short term actions to get things clear
+
 ## Do the API's make it possible to have a valid transactions & balanced administration
 Related documents:
 [Data flows](https://github.com/stichtingsem/pilot-phase/blob/main/documents/work-stream-finance-administration/20200817%20SEM%20POC%20FIN%20ADMIN%20Dataflow%20EV.pdf) |
