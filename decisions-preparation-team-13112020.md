@@ -20,13 +20,13 @@ Technical solution contains **all** required fields for a valid transaction, but
      - Example: entitlement quantity vs. quantity in use 
   - Determine owner of data parts
 
-## Architecture
+## Architecture & Data
 
 [Architecture](https://stichtingsem.stoplight.io/docs/sem-technology-prototype/docs/introduction.md)
 
 ### 1. Do we implement webhooks and events in every interface or are there exceptions?
 
-Can we reach a valid transaction and balanced administration with the defined architecture? Do we need to specify certain business rules (best practice) to ensure that API's and technical interfaces is implemented correct?
+Can we reach a valid transaction and balanced administration with the defined architecture? Do we need to specify certain business rules (best practice) to ensure that API's and technical interfaces are implemented correct?
   - Ecxample: 
     - Order of events
 
@@ -51,6 +51,24 @@ Do we remove those kind of double components or make a clear document on how to 
 
 Document that describes the target binding based on the role that is fulfilled?
 
+### 4. How to ensure that data at the source is correct and actual?
+
+## Setups (Subscribing service)
+
+### 1. What is needed to create a setup or subsribe to a API? What is an acceptable MVP for the pilot? We have to prove it is easy to setup!
+
+### 2. Is OSR sufficient to be the "central phonebook" for the ecosystem? Or do we need something more?
+Related Issue[OSR}{https://github.com/stichtingsem/pilot-phase/issues/11)
+
+Luke: although I think this would require a quite significant addition to the functionality of OSR as its main components (mandates and endpoints) currently only exist within the context of a specific school. But that's a discussion / research probably best held within the context
+
+## SIS API
+Related Issue[SIS](https://github.com/stichtingsem/pilot-phase/issues/4)
+
+### 1. Who to exchange personal data?
+
+#### Proposal Edwin: We use the Edukoppeling standard for the exchange of personal data.
+
 ## Entitlement API
 
 Related Issues: [Entitlement API](https://github.com/stichtingsem/pilot-phase/issues/3) | 
@@ -60,7 +78,7 @@ Design: [API](https://stichtingsem.stoplight.io/docs/sem-technology-prototype/re
 Elias: Yes. For data minimization an open question remains if we can reduce this to only the id, since name and description are already exchanged in catalogue API.
 
 ### 2. Define status entitlement in API or separate service?
-Based on the design it is not possible to determine quantity activated, quantity shared and quantity available. This are important aspects to know for processes like cancelation and returns > Do we adjust the API or design additional status API?
+Marcel: Based on the design it is not possible to determine quantity activated, quantity shared and quantity available. This are important aspects to know for processes like cancelation and returns > Do we adjust the API or design additional status API?
 
 ### 3. Which identifiers do we allow to be used (in the pilot)?
 
@@ -76,16 +94,41 @@ OSR and RIO are researched/evaluated during pilot foor applicability in roll-out
 
 ### 5. Get all entitlements for a specific individual is not designed. Add this call?
 
+## Catalogue API
+
+### 1. Match API on ECK 2.3
+Related Issue: [ECK 2.3](https://github.com/stichtingsem/pilot-phase/issues/15)
+
+Do this match in front or start with current design?
+
+### 2. Add stream codes to products 
+Related Issue: [Stream codes]{https://github.com/stichtingsem/pilot-phase/issues/5)
+
+Blocking?
+
+## Remaining Work - Non Blocking
+***[Progress & Results Service](https://github.com/stichtingsem/pilot-phase/issues/14)
+
+Proposal: Design during development
+
+***[Non Happy Flows/Test SCenarios]](https://github.com/stichtingsem/pilot-phase/issues/9)
+
+Proposal: Determine during pilot
+
+***[Attributes Policy/Data Covenant](https://github.com/stichtingsem/pilot-phase/issues/10)
+
+Proposal: Check later
+
+***[OSR](https://github.com/stichtingsem/pilot-phase/issues/11)
+
+Prposal: Continue research for roll-out
+
+***[RIO](https://github.com/stichtingsem/pilot-phase/issues/12)
 
 
-## SIS API & Setups (Subscribing service)
 
-### 1. What is needed to create a setup or subsribe to a API? What is an acceptable MVP for the pilot? We have to prove it is easy to setup!
 
-### 2. Is OSR sufficient to be the "central phonebook" for the ecosystem? Or do we need something more?
-Related Issue[OSR}{https://github.com/stichtingsem/pilot-phase/issues/11)
 
-Luke: although I think this would require a quite significant addition to the functionality of OSR as its main components (mandates and endpoints) currently only exist within the context of a specific school. But that's a discussion / research probably best held within the context
 
 
 
