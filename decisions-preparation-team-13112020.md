@@ -1,4 +1,4 @@
-# Decisions Preparation Team 13-11-2020
+# Decisions document Preparation Team meeting 13-11-2020
 
 ## Purpose meeting:
 - Remove issues so we can start developing API's 
