@@ -69,7 +69,7 @@ Luke: although I think this would require a quite significant addition to the fu
 ## SIS API
 Related Issue: [SIS](https://github.com/stichtingsem/pilot-phase/issues/4)
 
-### 1. Who to exchange personal data?
+### 1. How to exchange personal data?
 
 #### Proposal Edwin: We use the Edukoppeling standard for the exchange of personal data.
 
