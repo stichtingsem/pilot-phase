@@ -106,7 +106,7 @@ Related Issue: [ECK 2.3](https://github.com/stichtingsem/pilot-phase/issues/15)
 Do this match in front or start with current design?
 
 ### 2. Add stream codes to products 
-Related Issue: [Stream codes]{https://github.com/stichtingsem/pilot-phase/issues/5)
+Related Issue: [Stream codes](https://github.com/stichtingsem/pilot-phase/issues/5)
 
 Blocking?
 
@@ -125,11 +125,11 @@ Proposal: Check later
 
 [OSR](https://github.com/stichtingsem/pilot-phase/issues/11)
 
-Prposal: Continue research for roll-out
+Proposal: Continue research for roll-out, not implement in pilot
 
 [RIO](https://github.com/stichtingsem/pilot-phase/issues/12)
 
-
+Proposal: Continue research for roll-out, not implement in pilot
 
 
 
