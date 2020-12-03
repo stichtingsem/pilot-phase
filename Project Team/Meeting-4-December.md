@@ -21,7 +21,7 @@
       - 15 January
       - 29 january
 - Content:
-    - Report progress API developemnt
+    - Report progress API development
     - Discuss development issues within the participating companies
     - Discuss progress on backlog items
 
