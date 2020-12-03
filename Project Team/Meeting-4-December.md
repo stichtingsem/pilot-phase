@@ -39,7 +39,7 @@
 
 ## 4. Backlog Items project team
 
-### Actions & Princeples:
+### Actions & Principles:
 1. Refine scopes SIS API
   - Action holders: Edwin (Kees), Clifton
   - Planning:
