@@ -28,7 +28,7 @@
 ## 3. Collaboration POC teams
 
 ### Approach development phase - Proposal
-- **Goal: Develop API's based on the design in [spotlight](https://stichtingsem.stoplight.io/) and be ready to link them to the other roles based on the POC scenarios**
+- **Goal: Develop API's based on the design in [spotlight](https://stichtingsem.stoplight.io/) and be ready (end of Janury) to link them to the other roles based on the POC scenarios**
 - Every Project team member is responsible for the development of API's in their own company
     - Edwin: Iddink (MP), Magister (SIS/LMS)
     - Erik or Luke: SomToday (SIS/LMS)
