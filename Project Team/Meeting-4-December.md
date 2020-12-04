@@ -9,18 +9,22 @@
 
 ## 1. Opening
 - Additional agenda points
+   - No additional agenda points
 - Remarks
+   - No remarks
 
 ## 2.Project team meetings - Planning & Content
 
 ### Proposal
-- Planning:
+- Planning: **Approved by project team**
    - Every two weeks on friday from 14:00 till 15:00
    - Next meetings:
       - 18 December
       - 15 January
       - 29 january
-- Content:
+      - 12 February
+      - 26 February
+- Content: **Approved by project team**
     - Report progress API development
     - Discuss development issues within the participating companies
     - Discuss progress on backlog items
@@ -29,12 +33,24 @@
 
 ### Approach development phase - Proposal
 - **Goal: Develop API's based on the design in [spotlight](https://stichtingsem.stoplight.io/) and be ready (end of January) to link them to the other roles based on the POC scenarios**
+   - TLN
+     - MP almost ready
+     - LMS development in January > expect to be ready by end of January
+   - Noordhoff
+     - LA: No problem to have API's ready by the end of January, but will check with developers
+   - Iddink
+     - MP, LMS, LA: Development will start second half of January. End of January is to ambitious
+   - SomToday
+     - Started with SIS. Development Authorization and LMS will start in January
+   - Progress will be monitored in project team meetings
 - Every Project team member is responsible for the development of API's in their own company
     - Edwin: Iddink (MP), Magister (SIS/LMS)
     - Erik or Luke: SomToday (SIS/LMS)
     - Elias: Noordhoff (LA)
     - Danny: TLN (MP/LMS)
-    - There is no definitive GO from Thieme (LA). **Question to Luke/Erik**: If Thieme participates could you follow/report progress?
+    - There is no definitive GO from Thieme (LA). 
+      - **Question to Luke/Erik**: If Thieme participates could you follow/report progress?
+      - Luke: If Thieme joins we (Luke/Erik) will monitor and report progress
 - POC team leads/Development teams are responsible for the use cases needed to develop the API's
 
 ## 4. Backlog Items project team
