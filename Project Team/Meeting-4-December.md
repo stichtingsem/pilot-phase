@@ -44,7 +44,7 @@
      - Started with SIS. Development Authorization and LMS will start in January
      - Luke expects that LMS/ELO will be integrated in February
    - Progress will be monitored in project team meetings
-- Every Project team member is responsible for the development of API's in their own company
+- Every Project team member is responsible for the development of API's in their own company **Approved by project team**
     - Edwin: Iddink (MP), Magister (SIS/LMS)
     - Erik or Luke: SomToday (SIS/LMS)
     - Elias: Noordhoff (LA)
@@ -52,7 +52,7 @@
     - There is no definitive GO from Thieme (LA). 
       - **Question to Luke/Erik**: If Thieme participates could you follow/report progress?
       - Luke: If Thieme joins we (Luke/Erik) will monitor and report progress
-- POC team leads/Development teams are responsible for the use cases needed to develop the API's
+- POC team leads/Development teams are responsible for the use cases needed to develop the API's **Approved by project team**
 - Scope:
    - Prove that the API's work in the determined POC scenarios
    - It has to be clear for non technical people (just a command line with 200 (OK) is not enough)
@@ -85,14 +85,14 @@
 6. Design Results & Progress API (LMS)
   - Action Holders: Danny, Edwim, Clifton
   - Planning: Update 18 December
-7. Adjust design Entitlement API (and or either)
-  - Action holder: Clifton **ELias will share this with Clifton**
+7. Adjust design Entitlement API (and or either regarding school and individual)
+  - Action holder: Clifton **Elias will share this with Clifton**
   - Planning: Update 18 December
 8. Adjust design Entitlment API (Add operation: Get all entitlements for a specific individual)
-  - Action holder: Danny, Clifton **ELias will share this with Clifton**
+  - Action holder: Danny, Clifton **Elias will share this with Clifton**
   - Planning: Update 18 December
 9. Match Catalogue API on ECK 2.3/2.4 (mandatory fields)
-  - Action holder: Danny, Edwin, Clifton **ELias will share this with Clifton**
+  - Action holder: Danny, Edwin, Clifton **Elias will share this with Clifton**
   - Planning: Update 18 December
 10. Adjust design Catalogue (add stream codes)
   - Action holder: Edwin (Kees), Danny
