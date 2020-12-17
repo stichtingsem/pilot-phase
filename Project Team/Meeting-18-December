@@ -1,0 +1,76 @@
+# Project Team Meeting
+
+## Agenda
+1. Opening
+2. Progress Development & Planning
+3. Backlog Items project team
+  - Update Backlog Items
+  - Other Backlog Items
+4. AOB
+
+## 1. Opening
+- Additional agenda points
+   - 
+- Remarks
+   - 
+
+## 2.Progress Development & Planning
+   - TLN
+     - MP:
+     - LMS:
+   - Noordhoff
+     - LA:
+   - Iddink
+     - Planning:
+   - SomToday
+     - SIS:
+     - LMS:
+   - Thieme
+     - LA: Still no confirmation on participation
+
+## 4. Backlog Items project team
+
+### Update Backlog Items:
+1. Refine scopes SIS API
+  - Action holders: Edwin (Kees), Clifton
+  - Update:
+2. Design setup service
+  - Action holders: Erik/Luke, Clifton
+  - Update:
+5. Design Usage API (MP)
+  - Action Holders: Danny, Clifton
+  - Update:
+6. Design Results & Progress API (LMS)
+  - Action Holders: Danny, Edwin, Clifton
+  - Update:
+7. Adjust design Entitlement API (and or either regarding school and individual)
+  - Action holder: Clifton
+  - Update:
+8. Adjust design Entitlment API (Add operation: Get all entitlements for a specific individual)
+  - Action holder: Danny, Clifton
+  - Update:
+9. Match Catalogue API on ECK 2.3/2.4 (mandatory fields)
+  - Action holder: Danny, Edwin, Clifton
+  - Update:
+10. Adjust design Catalogue (add stream codes)
+  - Action holder: Edwin (Kees), Danny
+  - Update:
+
+
+## Other Backlog Items:
+3. Applicability OSR
+  - Action holders: Marcel, Erik, Edwin
+  - Planning: Folluw up meeting during POC
+4. Applicability RIO
+  - Action holders: Marcel, Erik, Edwin
+  - Planning: Folluw up meeting during POC
+11. FUNCTIONAL: Determine non happy flows/test scenario's (including returns & cancelations)
+  - Action holders: Marcel, Edwin (Jerry), Danny (Hessel), Elias
+  - Planning: During development phase
+12. Check Data Covenant & Attribute Policy
+  - Action holder: Marcel, Danny (Marten Bakker)
+  - Planning: After POC phase
+
+
+## 4. Any Other Business
+- 
