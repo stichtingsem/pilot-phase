@@ -19,12 +19,12 @@
      - MP: Completion 80%. Last 20% is the integration of webhooks. This part will be developed in the first week of January
      - LMS: Development will start in the first week of January and should be finished in the last week of January
    - Noordhoff
-     - LA:
+     - LA: Started this week, Identified services, determined open source ewbhooks/events, second week January (Catalog)
    - Iddink
-     - Planning:
+     - Planning: design sessions, identified all places , start 18 January
    - SomToday
-     - SIS:
-     - LMS:
+     - SIS: Working on SIS API First Half on January > Webhooks and events in the later phase
+     - LMS: Waiting on the other parties to connect them
    - Thieme
      - LA: Still no confirmation on participation
 
@@ -33,14 +33,14 @@
 ### Update Backlog Items:
 1. Refine scopes SIS API
   - Action holders: Edwin (Kees), Clifton
-  - Update:
+  - Update: Meeting planned by esther > First of January
 2. Design setup service
   - Action holders: Erik/Luke, Clifton
-  - Update:
+  - Update: Some discussion > Updated Github > 90% proposal
 5. Design Usage API (MP)
   - Action Holders: Danny, Clifton
   - Update Danny:
-    - Rename it to **Consumption API**
+    - Rename it to **Consumption API**?
     - Scope: Contains data about activation and usage to the Market Place
     - Consumption Types: Entrance/Access/Activation, with possibilities for the learning application to add types
     - Danny will deliver a definitive design for approval on the 4th of Janaury
@@ -53,7 +53,7 @@
 7. Adjust design Entitlement API (and or either regarding school and individual)
   - Action holder: Clifton
   - Update Danny:
-    - This change is part of the design Consumption API
+    - This change is part of the design Consumption API > Wait on the the design API
 8. Adjust design Entitlment API (Add operation: Get all entitlements for a specific individual)
   - Action holder: Danny, Clifton
   - Update Danny:
@@ -81,7 +81,7 @@
   - Update Danny:
     - Proposal: Let Marcel arrange a meeting with stakeholders (Edwin, Jerry, ELias) to discuss and determine test scenario's
 12. Check Data Covenant & Attribute Policy
-  - Action holder: Marcel, Danny (Marten Bakker)
+  - Action holder: Marcel, Danny (Marten Bakker), Edwin
   - Planning: After POC phase
 
 
