@@ -10,7 +10,7 @@
 
 ## 1. Opening
 - Additional agenda points
-   - No Additional agenda points
+   - No Additional agenda subjects
 - Remarks
    - No opening remarks
 
@@ -40,7 +40,7 @@
       - Marchien has spoken to Eric Razenberg. 
         - Thieme is in negotiation with Toegang.Org for the development of the API and connections
         - Eric R. expects confirmation of participation before Christmas
-        - Erik D. explains that there is no/litlle development capacity in January
+        - Erik D. explains that there is no/little development capacity in January
    - Q&A
      - Q: Discussion on Entitlement API
      - A: Can every MP support all business models? This is optional
@@ -53,7 +53,7 @@
   - Action holders: Edwin (Kees), Clifton
   - Update:
    - There is a meeting regarding the SIS API in the first week of January
-   - This item will be discussed in this meeting or after that
+   - This item will be discussed in this meeting
 2. Design setup service
   - Action holders: Erik/Luke, Clifton
   - Update:
@@ -79,7 +79,7 @@
 7. Adjust design Entitlement API (and or either regarding school and individual)
   - Action holder: Clifton
   - Update:
-    - This change is part of the design Consumption API > Wait on the the design API
+    - This change is part of the design Consumption API (by Danny) > Wait on the the design API
 8. Adjust design Entitlment API (Add operation: Get all entitlements for a specific individual)
   - Action holder: Danny, Clifton
   - Update:
