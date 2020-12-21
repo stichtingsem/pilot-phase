@@ -31,9 +31,9 @@
    - SomToday
      - SIS: 
        - Working on SIS API and expect to deliver the data part in the first half of January
-       - In the second phase the webhooks and events functionality will be added
+       - In the second phase the webhooks and events functionality will be considered
      - LMS:
-       - Waiting on the other parties to connect them
+       - Waiting on the other parties (MP/LA) to connect with those endpoints
    - Thieme
      - LA:
       - Still no confirmation on participation
@@ -66,7 +66,9 @@
   - Update:
     - Proposal: Rename it to **Consumption API**
     - Scope: Contains data about activation and usage to the Market Place
-      - Discussion if only the Market Place can use this data > We wait for the definitive concept design ;-)
+      - Discussion if only the Market Place can use this data
+      - Basic principle is that anyone can ask for data if it is applicable for the role that is fulfilled
+      - Outcome: We wait for the concept design
     - Consumption Types: Entrance/Access/Activation, with possibilities for the learning application to add types
     - Danny will deliver a definitive design for approval on the 4th of Janaury
     - **Update Project Team**: 15 January
