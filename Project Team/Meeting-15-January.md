@@ -16,7 +16,7 @@
    - 
 
 ## 2. Notes 18 December
-- 
+- [Notes](https://github.com/stichtingsem/pilot-phase/blob/main/Project%20Team/Meeting-18-December.md)
 
 ## 3.Progress Development & Planning
    - TLN
