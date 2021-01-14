@@ -5,8 +5,8 @@
 2. Notes 18 December
 3. Progress Development & Planning
 4. Backlog Items project team
-  - Update Backlog Items
-  - Other Backlog Items
+    - Update Backlog Items
+    - Other Backlog Items
 5. AOB
 
 ## 1. Opening
