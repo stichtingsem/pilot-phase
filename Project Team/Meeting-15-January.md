@@ -16,7 +16,7 @@
      - Last meeting: 17 December
      - Next meeting: 21 Jnaury
      - Introduction new board member (Thijs WIllems)
-     - Walkthrough Architecture
+     - Walkthrough Architecture on Spotlight
      - Status update from Clifton/Marcel
      - Advice: Use ECK standard as base for the test scenarios
 - Remarks
