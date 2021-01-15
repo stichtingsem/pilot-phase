@@ -7,11 +7,12 @@
 4. Backlog Items project team
     - Update Backlog Items
     - Other Backlog Items
-5. AOB
+5. Issues/Questions for Technical Advisory Board
+6. AOB
 
 ## 1. Opening
 - Additional agenda points
-   - Technical Advisory Board (Edwin)
+   - Status Technical Advisory Board (Edwin)
 - Remarks
    - 
 
@@ -91,6 +92,8 @@
   - Action holder: Marcel, Danny (Marten Bakker), Edwin
   - Planning: After POC phase
 
+## 5. Issues/Questions for Technical Advisory Boar
+- 
 
-## 5. Any Other Business
+## 6. Any Other Business
 - 
