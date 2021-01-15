@@ -18,9 +18,8 @@
      - Introduction new board member (Thijs WIllems)
      - Walkthrough Architecture on Spotlight
      - Status update from Clifton/Marcel
-     - Advice: Use ECK standard as base for the test scenarios
-- Remarks
-   - 
+     - Advice: Use ECK standard as base for the test scenario
+   - Remarks
 
 ## 2. Notes 18 December
 - [Notes](https://github.com/stichtingsem/pilot-phase/blob/main/Project%20Team/Meeting-18-December.md)
