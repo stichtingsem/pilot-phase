@@ -46,6 +46,7 @@
 ### Update Backlog Items:
 1. Refine scopes SIS API
   - Action holders: Edwin (Kees), Clifton
+  - [Questions Topicus](https://github.com/stichtingsem/pilot-phase/issues/4#issuecomment-753905214)
   - Update:
 2. Design setup service
   - Action holders: Erik/Luke, Clifton
@@ -58,7 +59,6 @@
     - Proposal: Rename it to **Consumption API**
       - Decision project team: 
     - Danny:
-      -
 6. Design Results & Progress API (LMS)
   - Action Holders: Danny, Edwin, Clifton
   - Update:
