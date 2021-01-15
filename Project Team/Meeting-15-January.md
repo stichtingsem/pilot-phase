@@ -13,6 +13,12 @@
 ## 1. Opening
 - Additional agenda points
    - Status Technical Advisory Board (Edwin)
+     - Last meeting: 17 December
+     - Next meeting: 21 Jnaury
+     - Introduction new board member (Thijs WIllems)
+     - Walkthrough Architecture
+     - Status update from Clifton/Marcel
+     - Advice: Use ECK standard as base for the test scenarios
 - Remarks
    - 
 
