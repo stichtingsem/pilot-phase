@@ -14,7 +14,7 @@
 - Additional agenda points
    - Status Technical Advisory Board (Edwin)
      - Last meeting: 17 December
-     - Next meeting: 21 Jnaury
+     - Next meeting: 21 January
      - Introduction new board member (Thijs WIllems)
      - Walkthrough Architecture on Spotlight
      - Status update from Clifton/Marcel
