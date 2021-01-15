@@ -83,7 +83,7 @@
   - Action holders: Marcel, Edwin (Jerry), Danny (Hessel), Elias
   - Update:
     - Marcel is planning a meeting (before end of January) and makes a first version
-12. Frontend for demonstration
+13. Frontend for demonstration
   - Action holder:
 
 
