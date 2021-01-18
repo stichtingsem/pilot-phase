@@ -126,7 +126,7 @@
   - No questions or issues to share with Technical Advisory Board
 
 ## 6. Any Other Business
-  - **ACtion**: Edwin will arrange that Jorim (Topicus) is invited for the SIS API session
+  - **Action**: Edwin will arrange that Jorim (Topicus) is invited for the SIS API session
 
 # Actions:
  - Edwin will contact Clifton to determine who will arrange the SIS API session and make sure that the session will be held in the coming weeks
