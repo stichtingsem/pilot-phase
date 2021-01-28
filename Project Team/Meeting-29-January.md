@@ -104,7 +104,7 @@
   - 
 
 ## 6. Any Other Business
-  - **Action**: Edwin will arrange that Jorim (Topicus) is invited for the SIS API session
+  - 
 
 # Actions:
  - Edwin will contact Clifton to determine who will arrange the SIS API session and make sure that the session will be held in the coming weeks
