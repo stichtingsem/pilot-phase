@@ -19,7 +19,7 @@
 ## 1. Opening
 - Additional agenda points
    - 
- -Remarks
+ - Remarks
    - 
 
 ## 2. Notes 18 December
@@ -28,27 +28,18 @@
 ## 3.Progress Development & Planning
    - TLN
      - MP:
-        - 
      - LMS:
-        - 
    - Noordhoff
      - LA: 
-        - 
    - Iddink
-     - MP
-        - 
-     - SIS
-        - 
-     - LMS
-        - 
+     - MP:
+     - SIS:
+     - LMS:
    - SomToday
      - SIS:
-       - 
      - LMS:
-       - 
    - Thieme
-     - LA:
-       - Still no confirmation on participation
+     - LA: Still no confirmation on participation
 
 ## 4. Backlog Items project team
 
