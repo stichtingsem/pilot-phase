@@ -122,7 +122,7 @@
   - Action holder: Marcel, Danny (Marten Bakker), Edwin
   - Planning: After POC phase
 
-## 5. Issues/Questions for Technical Advisory Boar
+## 5. Issues/Questions for Technical Advisory Board
   - No questions or issues to share with Technical Advisory Board
 
 ## 6. Any Other Business
