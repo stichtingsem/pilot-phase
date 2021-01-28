@@ -79,7 +79,7 @@
 11. Determine non happy flows/test scenario's (including returns & cancelations)
   - Action holders: Marcel, Edwin (Jerry), Danny (Hessel), Elias
   - Update:
-    - [Usecases](https://github.com/stichtingsem/pilot-phase/blob/main/documents/20210124%20Use%20Cases%20SEM%20Pilot.xlsx)
+    - [Usecases](https://github.com/stichtingsem/pilot-phase/blob/main/documents/20210128%20Use%20Cases%20SEM%20Pilot.xlsx)
 13. Frontend for demonstration
   - Update:
     - TLN:
