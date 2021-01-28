@@ -101,6 +101,7 @@
 
 ## 5. Issues/Questions for Technical Advisory Board
   - Setup Scenarios
+  - Use Cases
   - 
 
 ## 6. Any Other Business
