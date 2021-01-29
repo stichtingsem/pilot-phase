@@ -22,24 +22,24 @@
  - Remarks
    - 
 
-## 2. Notes 18 December
+## 2. Notes 15 janaury
 - [Notes](https://github.com/stichtingsem/pilot-phase/blob/main/Project%20Team/Meeting-15-January.md)
 
 ## 3.Progress Development & Planning
    - TLN
-     - MP:
-     - LMS:
+     - MP: Basicaly up and running (dummy catalog) ina acceptance > Ready to link
+     - LMS: Monday 1st February
    - Noordhoff
-     - LA: 
-   - Iddink
-     - MP:
-     - SIS:
+     - LA: Worked on catalogue API > Update on wesnesday
+   - Iddink: Setup in place pipielines
+     - MP: Started with entitlement + stub data
+     - SIS: Flexible in priority
      - LMS:
    - SomToday
-     - SIS:
-     - LMS:
+     - SIS: Finishing the SIS API > Internal Environment 5 feb or 8 feb
+     - LMS: Waiting on designs
    - Thieme
-     - LA: Still no confirmation on participation
+     - LA: Still no confirmation on participation > MArchien
 
 ## 4. Backlog Items project team
 
@@ -68,7 +68,7 @@
   - Update:
 7. Adjust design Entitlement API (and or either regarding school and individual)
   - Action holder: Danny, Clifton
-  - Update:
+  - Update: Monday 09:00
 8. Adjust design Entitlment API (Add operation: Get all entitlements for a specific individual)
   - Action holder: Danny, Clifton
   - Update:
@@ -78,14 +78,14 @@
   - Update:
 11. Determine non happy flows/test scenario's (including returns & cancelations)
   - Action holders: Marcel, Edwin (Jerry), Danny (Hessel), Elias
-  - Update:
+  - Update: Wait on pull request. Stream codes stay in
     - [Usecases](https://github.com/stichtingsem/pilot-phase/blob/main/documents/20210128%20Use%20Cases%20SEM%20Pilot.xlsx)
 13. Frontend for demonstration
   - Update:
-    - TLN:
-    - Noordhoff:
-    - Topicus:
-    - Iddink:
+    - TLN: No Update
+    - Noordhoff: No Update
+    - Topicus: No Update 
+    - Iddink: No Update
 
 
 ## Other Backlog Items:
@@ -102,7 +102,7 @@
 ## 5. Issues/Questions for Technical Advisory Board
   - Setup Scenarios
   - Use Cases
-  - 
+  - Entitlement Push (data) to LA (and LMS) > receive, process, progress
 
 ## 6. Any Other Business
   - 
