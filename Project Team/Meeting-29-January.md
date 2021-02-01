@@ -140,10 +140,10 @@ The meeting started with an update from Danny because of his limited time. His u
     - 1 February
  - Elias gives update to project team on progress
     - 3 February
- - Luke informs project team on the release of the SIS API
-    - 8 February
  - Marchien contacts Thieme (Pieter Ruempol) on their participation
     - 5 February
+ - Luke informs project team on the release of the SIS API
+    - 8 February
  - Edwin will arrange SIS API session (Backlog Item 1)
     - 11 February
     - Jorim (Topicus) will be invited for the session
