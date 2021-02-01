@@ -35,9 +35,9 @@ The meeting started with an update from Danny because of his limited time. His u
    - Noordhoff
      - LA: The catalogue API is on the current sprint. Because of an issue and the lockdown development has been delayed.
         - **Action**: Elias gives update to project team on progress - 3 February
-   - Iddink: Setup in place pipielines
+   - Iddink:
      - Iddink started development last monday (25th of January). The base setup (pipelines) is in place
-     - MP:  Development of the entitlement API (including stub data) is sterted
+     - MP:  Development of the entitlement API (including stub data) has started
      - Other: The order of development of the API's and connections is flexible. Depends on progress within Iddink and the available API's at partners within the ecosystem
    - SomToday
      - SIS: SomToday will finish the SIS API in the next week and will be available in test environment for partners from the 8th of February
@@ -76,7 +76,7 @@ The meeting started with an update from Danny because of his limited time. His u
       - Usage API: setup on school level
       - Progress & Results API: setup on school level
       - Entitlement API: discussion
-         - Technical Advisory Board will be consulted on this matter
+    - Technical Advisory Board will be consulted on this matter
 5. Design Usage API (MP)
   - Action Holders: Danny, Clifton
   - Update: Adjusted designs will be available as pull request from the 1st of February after Clifton helps Danny with release on Stoplight/Github
@@ -90,7 +90,7 @@ The meeting started with an update from Danny because of his limited time. His u
   - Update: Adjusted designs will be available as pull request from the 1st of February after Clifton helps Danny with release on Stoplight/Github
 8. Adjust design Entitlment API (Add operation: Get all entitlements for a specific individual)
   - Action holder: Danny, Clifton
-  - Update:Adjusted designs will be available as pull request from the 1st of February after Clifton helps Danny with release on Stoplight/Github
+  - Update: Adjusted designs will be available as pull request from the 1st of February after Clifton helps Danny with release on Stoplight/Github
 10. Adjust design Catalogue (add stream codes)
   - Action holder: Edwin (Kees), Danny
   - Update: Edwin had contact with Danny on the streamcodes. They concluded that stream codes would stay part of the design and will be part of the adjusted designs (pull request)
