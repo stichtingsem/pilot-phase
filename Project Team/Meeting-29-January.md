@@ -33,7 +33,7 @@ The meeting started with an update from Danny because of his limited time. His u
      - MP: The Entitlement API is ready and is up and running in the acceptance environment. Partners in the ecosystem can ask for an access token to get access and link to the API. TLN wants to move the API to production because of security guidelines.
      - LMS: Development of the connections to the LMS will start next week (1st of February)
    - Noordhoff
-     - LA: The catalogue API is on the current sprint. Because of an issue and the lockdown development has been delyaed.
+     - LA: The catalogue API is on the current sprint. Because of an issue and the lockdown development has been delayed.
         - **Action**: Elias gives update to project team on progress - 3 February
    - Iddink: Setup in place pipielines
      - Iddink started development last monday (25th of January). The base setup (pipelines) is in place
