@@ -5,8 +5,9 @@
 2. Notes 29 January
 3. Progress Development & Planning
 4. Backlog Items project team
-    - Update Backlog Items
-    - Other Backlog Items
+    - [Setup](https://github.com/stichtingsem/pilot-phase/blob/main/documents/Setups.xlsx)
+    - [Issue & Reaction](https://github.com/stichtingsem/pilot-phase/issues/14)
+    - [Usecases](https://github.com/stichtingsem/pilot-phase/blob/main/documents/20210128%20Use%20Cases%20SEM%20Pilot.xlsx)
 5. Issues/Questions for Technical Advisory Board
 6. AOB
 
@@ -17,10 +18,10 @@
 - Completed Actions
 
 ## 1. Opening
-- Additional agenda points
-  - 
-- Remarks
-  - 
+ - Additional agenda points
+   - 
+ - Remarks
+   - 
 
 ## 2. Notes 29 janaury
 - [Notes](https://github.com/stichtingsem/pilot-phase/blob/main/Project%20Team/Meeting-29-January.md)
@@ -49,34 +50,31 @@
 1. Refine scopes SIS API
   - Action holders: Edwin (Kees), Clifton
   - [Questions Topicus](https://github.com/stichtingsem/pilot-phase/issues/4#issuecomment-753905214)
-  - **Action**: Edwin will arrange SIS API session in the coming weeks and wil invite Jorim from Topicus
-  - Update: Session will be planned in week 7
+  - **Action**: Edwin will plan session on this subject in week 7
 2. Design setup service
   - Action holders: Erik/Luke, Clifton
   - Update:
-    - 
+    - [Setups](https://github.com/stichtingsem/pilot-phase/blob/main/documents/Setups.xlsx)
+    - Do the project team members support the starting point?
 5. Design Usage API (MP)
   - Action Holders: Danny, Clifton
-  - Update: Adjusted designs will be available as pull request from the 1st of February after Clifton helps Danny with release on Stoplight/Github
-    - **Action**: Danny informs project team when the pull request is available and gives a summary (release notes) by mail
-       - This actions contains all the changes for items 5, 6, 7, 8
+  - Update: Pull request/branch is available in Github/Stoplight
+     - Reaction Project Team:
 6. Design Results & Progress API (LMS)
   - Action Holders: Danny, Edwin, Clifton
-  - Update: Adjusted designs will be available as pull request from the 1st of February after Clifton helps Danny with release on Stoplight/Github
+  - Update: [Issue & Reaction](https://github.com/stichtingsem/pilot-phase/issues/14)
+  - Reaction:
 7. Adjust design Entitlement API (and or either regarding school and individual)
   - Action holder: Danny, Clifton
-  - Update: Adjusted designs will be available as pull request from the 1st of February after Clifton helps Danny with release on Stoplight/Github
+  - Update: Pull request/branch is available in Github/Stoplight
+     - Reactions Project Team:
 8. Adjust design Entitlment API (Add operation: Get all entitlements for a specific individual)
   - Action holder: Danny, Clifton
-  - Update: Adjusted designs will be available as pull request from the 1st of February after Clifton helps Danny with release on Stoplight/Github
-10. Adjust design Catalogue (add stream codes)
-  - Action holder: Edwin (Kees), Danny
-  - Update: Edwin had contact with Danny on the streamcodes. They concluded that stream codes would stay part of the design and will be part of the adjusted designs (pull request)
+  - Update: See Issue at backlog item 6
 11. Determine non happy flows/test scenario's (including returns & cancelations)
   - Action holders: Marcel, Edwin (Jerry), Danny (Hessel), Elias
   - Update:
     - [Usecases](https://github.com/stichtingsem/pilot-phase/blob/main/documents/20210128%20Use%20Cases%20SEM%20Pilot.xlsx)
-    - This is the last version (90% version) of the use cases and will be the base for testing
     - **Action**: Project team members check the use cases on correctness and integrality
 13. Frontend for demonstration
   - Update:
@@ -85,11 +83,11 @@
     - Topicus: No Update 
     - Iddink: No Update
 3. Applicability OSR
-  - Action holders: Marcel, Erik, Edwin
-  - Planning: Marcel will plan meeting in February to get informed and determine progress
+  - Action holders: Marcel, Erik, (Edwin)
+  - Planning: Meeting on 18 February
 4. Applicability RIO
   - Action holders: Marcel, Erik, Edwin
-  - Planning: Marcel will plan meeting in February to get informed and determine progress
+  - Planning: Meeting on 22 February
 
 
 ## Other Backlog Items:
@@ -98,35 +96,18 @@
   - Planning: After POC phase
 
 ## 5. Issues/Questions for Technical Advisory Board
-  - The Technical Advisory Board will be informed/consulted (no formal decisions) on the following: 
-    - Setup Scenarios
-    - Use Cases/Test scenarios
-    - Push functionality in ENtitlemenmt API
-        - Market Place can push entitlements to the Learning Application and Learning Material System. This is necessary because of the validity of the transactions
-          - Market Place will be updated (confirmation) by the Learning Application in three phases
-            1. Receive message
-            2. Process message
-            3. Progress message
-        - This push mechanism is available within the architecture but works different from the other connections
-        - This will be part of the set of appointments
-
-## 6. Any Other Business
   - 
 
+## 6. Any Other Business
+  - Edwin: Definition of an event
+  - Edwin: Data duplication & Data fit for purpose
+
 # Actions:
-  - Danny informs project team when the pull request is available and gives a summary (release notes) by mail
-    - 1 February
- - Elias gives update to project team on progress
-    - 3 February
- - Marchien contacts Thieme (Pieter Ruempol) on their participation
-    - 5 February
- - Luke informs project team on the release of the SIS API
-    - 8 February
+  
  - Edwin will arrange SIS API session (Backlog Item 1)
-    - 11 February
+    - Edwin will plan session on this subject in week 7
     - Jorim (Topicus) will be invited for the session
  - Project team members check the use cases on correctness and integrality
-    - 11 February
  
 # Project Team Decisions:
  - The Usage API will **not** be renamed to consumption API
@@ -138,8 +119,14 @@
 
 # Completed Backlog Items:
 9. Match Catalogue API on ECK 2.3/2.4 (mandatory fields)
+10. Adjust design Catalogue (add stream codes)
+  - Conclusion: Stream codes will stay part of the design
 
 # Completed Actions:
  - Marcel will arange a session on the subject 'setup flows' with the project team in week 3 (22 January from 10:00 - 11:00)
  - Marcel will plan meeting regarding test scenarios and use cases (26 January from 14:30 - 16:00)
  - Danny and Edwin will plan meeting to discuss the adjustment of the catalogue API (add stream codes)
+ - Danny informs project team when the pull request is available and gives a summary (release notes) by mail
+ - Elias gives update to project team on progress
+ - Marchien contacts Thieme (Pieter Ruempol) on their participation
+ - Luke informs project team on the release of the SIS API
