@@ -55,6 +55,7 @@
   - Action holders: Erik/Luke, Clifton
   - Update:
     - [Setups](https://github.com/stichtingsem/pilot-phase/blob/main/documents/Setups.xlsx)
+    - [Issue](https://github.com/stichtingsem/pilot-phase/issues/1)
     - Do the project team members support the starting point?
 5. Design Usage API (MP)
   - Action Holders: Danny, Clifton
