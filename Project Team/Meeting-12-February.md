@@ -136,7 +136,7 @@ Remarks:
     - Erik: Discuss progress and next steps within steering committee and SEM board
     - Edwin: There is no relation between PoC and PSS because we are still in a technical PoC. There are still a lot of questions that need to be answered before implementing is in a live environment
     - Elias: Is everyone on the same page?
-  - Edwin: Data duplication & Data fit for purpose > ACtions take place witin Iddink. Outcome will be shared later
+  - Edwin: Data duplication & Data fit for purpose > Actions take place witin Iddink. Outcome will be shared later
   - Edwin: Is there a lastest version of the document "Moving from a chain to an ecosystem"? The version on Github contains remarks
     - Marcel: Version 3 (contains remarks) is the lastest version in posesion.
     - **Action**: Elias (Clifton) determine if there is a later version without remarks
