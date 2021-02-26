@@ -33,6 +33,7 @@
  - Edwin will arrange SIS API session (Backlog Item 1)
      - Edwin will plan session on this subject in week 7 (19 February)
      - Jorim (Topicus) will be invited for the session
+     - Pull request > Check by LAS parties if it is OK (master)
  - Elias (Clifton) determine if there is a version of the document ("Moving from a chain to an ecosystem") without remarks
      - 26 February
 
