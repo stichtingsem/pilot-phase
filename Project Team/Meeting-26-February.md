@@ -49,9 +49,9 @@
            - Usage is crucial for the processes of the Market Place
       - Clifton:
          - Not sure about bootstrap (events) and usage being part of the minimal scope of demonstration of the proof of concept
-            - Designs should be completed in this phase
+           - Designs should be completed in this phase
       - Elias:
-            - We have difficulties getting things done as planned. Is usage really necessary to show the (basic) functionality of the ecosystem. I think that's not the case
+           - We have difficulties getting things done as planned. Is usage really necessary to show the (basic) functionality of the ecosystem. I think that's not the case
       - Marcel:
          - Is it possible to have a working environment on the 1st of April?
             - Deliver and link API's during the second half of March
