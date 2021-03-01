@@ -205,7 +205,7 @@
       - Marcel will share this 
 
 
-# Acions:
+# Actions:
  - Inform members of the Steering Committee on the progress of the SEM PoC. Determine position/opinion for the next Steering Committee
       - Luke, Elias/Clifton, Edwin, Hessel
       - 5 March
@@ -215,7 +215,7 @@
  - Discuss contents of the entitlement API (MP > LMS)
       - Edwin, Clifton, Luke, Danny
       - 2 March
- - Questions Topicus (Jorn) will be discussed by the tchnical group
+ - Questions Topicus (Jorn) will be discussed by the technical group
       - Edwin, Clifton, Luke, Danny
       - 2 March
  - Finish designs (API's, setup, events)
