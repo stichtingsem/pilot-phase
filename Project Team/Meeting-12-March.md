@@ -2,15 +2,11 @@
 
 ## Agenda
 1. Opening
-2. Notes 12 February
+2. Notes 26 February
 3. Actions
 4. Progress Development & Planning
-   - Scope
-   - Progress
 5. Planning Test Phase
 6. Backlog Items project team
-   - Questions
-   - Updates
 7. Issues/Questions for Technical Advisory Board
 8. AOB
 
@@ -22,22 +18,29 @@
 
 ## 1. Opening
  - Additional agenda points
-   - No agenda points added
+   - 
  - Remarks
-   - No opening remarks
+   - 
 
-## 2. Notes 29 janaury
-- [Notes](https://github.com/stichtingsem/pilot-phase/blob/main/Project%20Team/Meeting-12-February.md)
-   - There were no remarks on the notes and are thereby approved
+## 2. Notes 26 February
+- [Notes](https://github.com/stichtingsem/pilot-phase/blob/main/Project%20Team/Meeting-26-February.md)
+   - 
 
 ## 3. Actions
+ -  - Discuss contents of the entitlement API (MP > LMS)
+      - Edwin, Clifton, Luke, Danny
+ - Questions Topicus (Jorn) will be discussed by the technical group
+      - Edwin, Clifton, Luke, Danny
+ - Finish designs (API's, setup, events)
+      - Edwin, Clifton, Luke, Danny
+ - Share remarks on picture of connections with Edwin
+      - All
+ - Determine use cases to share with Kennisnet (OSR) > First share with Project group for validation
+      - Marcel
  - Edwin will arrange SIS API session (Backlog Item 1)
      - Meeting took place and there will be a follow up meeting
      - Kees (Iddink Group) created a pull request for the SIS API which should be checked and approved by the LAS partners in the ecosystem
          - Luke mentioned that Jorim was attending the meeting and the changes will be developed in their SIS API
- - Elias (Clifton) determine if there is a version of the document ("Moving from a chain to an ecosystem") without remarks
-     - Clifton searched during the meeting and found version 2. Marcel found version 3 on Github. Both versions contain remarks of partners in the ecosystem.
-         - Version 3 will be the base version for further purpose [Document](https://github.com/stichtingsem/pilot-phase/blob/main/sBDL%20-%20Moving%20from%20a%20Chain%20to%20an%20Ecosystem%20-%20v3.docx)
 
 ## 4.Progress Development & Planning
    
@@ -206,12 +209,7 @@
 
 
 # Actions:
- - Inform members of the Steering Committee on the progress of the SEM PoC. Determine position/opinion for the next Steering Committee
-      - Luke, Elias/Clifton, Edwin, Hessel
-      - 5 March
- - Update sheet for Steering Committee
-      - Marcel
-      - 5 March
+
  - Discuss contents of the entitlement API (MP > LMS)
       - Edwin, Clifton, Luke, Danny
       - 2 March
@@ -257,3 +255,5 @@
  - Elias will update Marcel on planning
  - Edwin will plan session on SIS API in week 7
  - Elias (Clifton) determine if there is a version of the document ("Moving from a chain to an ecosystem") without remarks
+ - Inform members of the Steering Committee on the progress of the SEM PoC. Determine position/opinion for the next Steering Committee
+ - Update sheet for Steering Committee 
