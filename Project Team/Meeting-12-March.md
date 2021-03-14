@@ -68,11 +68,12 @@
   - The coming two weeks will be needed to connect. After these weeks we can start testing
 
 **After this a discussion started (free format):**
-    - Edwin: For Iddink (Edwin) this is too much. "We have seen nothing yet"
+    
+   - Edwin: For Iddink (Edwin) this is too much. "We have seen nothing yet"
       - There will be misfits (loose ends)
       - After PoC we only established a common ground to connect and communicatie. There is no integration with the backend > It is not a technical platform yet.
-      - Integration in the application landscape is more difficult then the
-  - Clifton: Been able to collaborate and and build the same things in the same way. Technical it's not very difficult, but it's a step
+      - Integration in the application landscape is more difficult then this phase
+  - Clifton: Been able to collaborate and build the same things in the same way. Technical it's not very difficult, but it's a step
   - Danny: Could have done this (connection to Noordhoff and other partners) without this project
   - Marchien: It's not just these partners. It should be the base to connect with other prtners in the private sector
   - Edwin: Services were not needed at this point. We should have had more discussion first with members from the technical, functional and financial track first to establish a common ground/base
