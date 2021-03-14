@@ -21,7 +21,7 @@
    - No agenda points added
  - Remarks
    - Meeting of last Monday (8 March) was succesfull (see Github). A lot of the outstanding were discussed and closed
-   - Design of the Progress & Results API is still open and will be dicussed in separate sesions - Design will be finished before the 1st of APril
+   - Design of the Progress & Results API is still open and will be dicussed in separate sesions - Design will be finished before the 1st of April
      - Clifton will arrange meeting to finish designs
      - Progress & Results API will not be part of the PoC (only design)
 
@@ -62,7 +62,7 @@
      - Start with development of connection to entitlement API (TLN) next week
        -  TLN (Hessel) can get credentials. If they are not shared yet, then they will be shared next monday
      
-     **Next week is important for the delivery of API's and sharing of credentials. So partners can start linking API's and start data exchange**   
+     **Next week is important for the delivery of API's and sharing of credentials so partners can start linking API's and start data exchange**   
 
 ## 5. Planning Test Phase
   - The coming two weeks will be needed to connect. After these weeks we can start testing
