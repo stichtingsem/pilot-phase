@@ -24,6 +24,7 @@
    - Design of the Progress & Results API is still open and will be dicussed in separate sesions - Design will be finished before the 1st of April
      - Clifton will arrange meeting to finish designs
      - Progress & Results API will not be part of the PoC (only design)
+   - There is a recurring meeting planned on monday (11:00 - 15:00) where developers and engineers can align with each other
 
 ## 2. Notes 26 February
 - [Notes](https://github.com/stichtingsem/pilot-phase/blob/main/Project%20Team/Meeting-26-February.md)
@@ -67,30 +68,14 @@
 ## 5. Planning Test Phase
   - The coming two weeks will be needed to connect. After these weeks we can start testing
 
-**After this a discussion started (free format):**
-    
-   - Edwin: For Iddink (Edwin) this is too much. "We have seen nothing yet"
-      - There will be misfits (loose ends)
-      - After PoC we only established a common ground to connect and communicatie. There is no integration with the backend > It is not a technical platform yet.
-      - Integration in the application landscape is more difficult then this phase
-  - Clifton: Been able to collaborate and build the same things in the same way. Technical it's not very difficult, but it's a step
-  - Danny: Could have done this (connection to Noordhoff and other partners) without this project
-  - Marchien: It's not just these partners. It should be the base to connect with other prtners in the private sector
-  - Edwin: Services were not needed at this point. We should have had more discussion first with members from the technical, functional and financial track first to establish a common ground/base
-  - Erik: Our SIS API is nearly ready and we are going to use it
-  - Elias: Not so worried about the technical side. It's more about getting schools on board based on the things we show and explain to them
-  - Marcel: We have now have a technical design (base) to discuss with members of the functional and financial track
-  
-  - Danny: The board has to decide if we proceed with this or not
-  - Marchien: The opinion of board members depend on the opinion of project team members. If you're positive it's more likely that that there will be a next phase
-  - Danny: I think this is the right way to develop a new standard, but TLN has many projects. Others have to decide on the priority of this PoC within TLN
-  
-  - Marchien: Who do we need to convince in the next stage
-  - Elias: Convincing schools will help the Board to decide to go on
-  - Marcel: It's not only about the schools, but also to get more public and partners on board. We are not going to create a new standard that will be adopted if only TLN, Noordhoff, Topicus and Iddink join.
-  
-  - Clifton: It's not perfect, but is there an other altenarnative for private partners to be in charge of the change (the glass is half full)
-  - Edwin: We are not at the point to involve schools
+**After this a discussion started (free format)**
+
+To summarize it:
+Looking ahead the SEM board meeting of the March 16Th we had a discussion on the opinion of the project team members regarding the status of the PoC. The conclusion is that the project team is not completely aligned.
+You could look at it from different angels, the glass is half full or half empty. What has been done technically is not very difficult, but we have moved further down the road. If we as private partners want to be in the lead of the development of a new system, there is only one way and that is forward
+We deliberately decided after the first phase that although we still had open ends and issues to develop the technical base to go back to functional and administrative thereafter.
+There is agreement on the fact that we established a common ground with each other to connect and communicate technically, although most members think we still need to have more discussion with members of financial and administrivia track to establish a broader understanding of what has to be done.
+The project team is aware of the fact that there is still a gap to close before we have reached the phase that we can involve school in a Pilot. On the other hand we have to convince schools as well as other Public partners that we are on the right track. If and how we go forward depends on the opinion of the Board members.
 
 ## 6. Backlog Items project team
 
