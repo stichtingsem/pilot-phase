@@ -136,7 +136,7 @@ Henk:
 
 Kees:
 - Github and Stoplight are OK
-- Process of making progress, contribution to Github took to long (discussions, desicions)
+- Process of making progress, contribution to Github took to long (discussions, decisions)
 - Worked hard to finish before April. Now too less time left for making connections
 - Project plans of companies not in line
 - Slack helps
@@ -155,7 +155,7 @@ Jannes:
 -	Doing different things at different times is indeed an issue
 
 Marchien:
--	Delivering as promised/plannes was not always the case
+-	Delivering as promised/planned was not always the case
 -	Made it very hard esp. for Marcel some times to make progress
 -	Think about ways to enable new joiners to make an estimation about the efforts they have to make to join up
 
